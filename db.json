@@ -1,0 +1,25 @@
+{
+
+    "status":200,
+
+    "statusText":"OK",
+
+    "headers":{
+
+       "server":"nginx",
+
+       "date":"Fri, 15 Apr 2022 17:17:42 GMT",
+
+       "content-type":"application/octet-stream",
+
+       "content-length":"595",
+
+       "connection":"close",
+
+       "x-ua-compatible":"IE=Edge,chrome=1",
+
+       "x-content-type-options":"nosniff"
+
+    }
+
+ }
